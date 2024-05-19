@@ -1,0 +1,172 @@
+table, tr, th, td{
+    table-layout: fixed;
+    margin: 10px 0 0 50px;
+    column-width: auto auto auto auto;
+    padding: 5px;
+    border: 2px solid black;
+}
+th{
+    text-align: center;
+    background-color: rgb(235, 170, 31);
+    font-weight: bold;
+}
+label{
+    font-weight: bold;
+    color: indigo;
+    margin-top: 20px;
+
+}
+h1{
+    color: red;
+    font-weight: bold;
+    text-align: center;
+}
+.noidung{
+    border: 2px solid black;
+    padding: 10px;
+    margin: 50px;
+
+}
+input{
+    width: 70%;
+    margin-left: 10px;
+}
+th{
+    background-color: aqua;
+    font-weight: bold;
+}
+.btnSubmit{
+    background-color: blue;
+    width: 80px;
+    border-radius: 20px;
+    height: 40px;
+    padding: 2px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    justify-content: center;
+    margin-top: 20px;
+    color: white;
+}
+.btnSubmit:hover{
+    background-color: blueviolet;
+}
+input[type='button']{
+    background-color: blue;
+    width: 180px;
+    height: 40px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 20px;
+    justify-content: center;
+    justify-self: center;
+    margin-top: 20px;
+    color: white;
+}
+input[type='button']:hover{
+    background-color: rgb(43, 198, 226);
+}
+.tensp{
+    margin-left: 10px;
+    width: 70%;
+}
+.box{
+    text-align: center;
+
+}
+.pagination {
+    display: block;
+    margin-top: 20px;
+    float: right;
+    margin-right: 20px;
+  }
+  
+.pagination li a {
+color: rgb(215, 45, 221);
+float: left;
+align-items: center;
+padding: 8px 16px;
+text-decoration: none;
+border: 1px solid #ddd;
+margin: 0 4px;
+}
+.pagination li span{
+    color: white;
+    font-weight: bold;
+    float: left;
+    align-items: center;
+    padding: 8px 16px;
+    background-color: blue;
+    text-decoration: none;
+    border: 1px solid #ddd;
+    margin: 0 4px;
+    }
+
+input[type='search']{
+    height: 38px;
+    border-radius: 10px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #44c5db;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none !important;
+}
+
+li a:hover {
+    background-color: rgb(18, 134, 212);
+    color: rgb(222, 9, 9);
+    text-decoration: none !important;
+}
+
+.active {
+    background-color: #04AA6D;
+}
+.card{
+    width: 250px;
+    margin-top: 20px;
+}
+.form-find{
+    margin-bottom: 20px;
+}
+.cart{
+    float: right;
+    margin: 20px 20px 20px 20px;
+}
+.btnDangKi{
+    background-color: rgb(69, 69, 238);
+    width: 190px;
+    border-radius: 20px;
+    height: 40px;
+    padding: 2px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    justify-content: center;
+    margin-top: 20px;
+    color: white;
+}
+.btnDangKi:hover{
+    background-color: rgb(43, 226, 156);
+}
+h2{
+    color: red;
+    text-align: center;
+}
+
+
